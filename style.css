@@ -1,1 +1,35 @@
+#PLP {
+    display: block;
+    color: rgb(54, 12, 240);
+    text-decoration: none;
+    cursor: pointer;
+    padding: 0, 0,50px,0;
+    margin: 30px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: rgba(165, 42, 128, 0.822);
+    font-family: 'Times New Roman', Times, serif;
+}
+.Intro {
+    text-align: center;
+    color: rgb(94, 10, 89);
+    font-weight: lighter;
+    margin: 30px
 
+}
+img {
+    display: block;
+    margin: auto;
+    border: 5px solid rgb(59, 11, 71);
+    padding: 40px
+}
+footer {
+    text-align: center;
+    color: rgb(85, 23, 23);
+    font-weight: bolder;
+}
+body {
+    background-color: rgb(241, 199, 219);
+}
